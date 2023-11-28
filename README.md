@@ -15,10 +15,12 @@ Elevate your coding experience with Vicious, a sleek and immersive dark theme fo
 <div  align="center">
 
 [![Issues](https://img.shields.io/github/issues/zaheralmajed/vicious-theme-terminal?logo=gitbook&style=for-the-badge&labelColor=%2308090E&logoColor=%23fbfcfc&color=%23F18196&label=Issues)](https://github.com/zaheralmajed/vicious-theme-terminal/issues)
-
 [![Stars](https://img.shields.io/github/stars/zaheralmajed/vicious-theme-terminal?logo=github&style=for-the-badge&labelColor=%2308090E&color=%23AB8BEB&label=Stars)](https://github.com/zaheralmajed/vicious-theme-terminal/stargazers)
-
 [![Changelog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-terminal%2Fmain%2Fpackage.json&query=version&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=changelog&labelColor=%2308090E&color=%23F1C981)](https://github.com/zaheralmajed/vicious-theme-terminal/blob/main/CHANGELOG.md)
+
+</div>
+<div  align="center">
+
 [![Release Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-terminal%2Fmain%2Fpackage.json&query=releasedDate&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=release%20date&labelColor=%2308090E&color=%23F19A81)](https://github.com/zaheralmajed/vicious-theme-terminal/releases/tag/1.0.1)
 [![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-terminal%2Fmain%2Fpackage.json&query=%24.version&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=version&labelColor=%2308090E&color=%238BE3EB)](https://github.com/zaheralmajed/vicious-theme-terminal/releases/tag/1.0.1)
 [![license](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-terminal%2Fmain%2Fpackage.json&query=license&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=license&labelColor=%2308090E&color=%23BCF181)](https://github.com/zaheralmajed/vicious-theme-terminal/blob/main/LICENSE)
